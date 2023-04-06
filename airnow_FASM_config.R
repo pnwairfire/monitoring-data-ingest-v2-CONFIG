@@ -9,7 +9,7 @@
 # Monitors can be identified in one of three ways:
 #  - by 'deviceDeploymentID' -- An identifier of the form: "98b09fdaf1e5effb_840MMFS12264"
 #  - by 'locationID' -- The first half of the deviceDeploymentID: "98b09fdaf1e5effb"
-#  - by 'deviceID' -- The second half of the deviceDeploymentID:  "840MMFS12264" 
+#  - by 'deviceID' -- The second half of the deviceDeploymentID:  "840MMFS12264"
 #
 # Excluding by locationID will remove all devices deployed at a specific location.
 #
@@ -21,18 +21,22 @@
 # Make sure to place a comma after every identifier EXCEPT THE LAST ONE.
 
 AIRNOW_FASM_EXCLUDE_BY_deviceDeploymentID <-
-  c()
+  c(
+    # "a-first-id",
+    "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
+)
 
 AIRNOW_FASM_EXCLUDE_BY_locationID <-
-  c()
+  c(
+    # "a-first-id",
+    "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
+  )
 
 AIRNOW_FASM_EXCLUDE_BY_deviceID <-
   c(
-    "840MMFS12264"
-    # a seond ID,
-    # ...
-    # test edit
-    # a final ID with no comma
+    "840MMFS12264",
+    # "a-second-id",
+    "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
 
