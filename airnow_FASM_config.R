@@ -23,12 +23,14 @@
 AIRNOW_FASM_EXCLUDE_BY_deviceDeploymentID <-
   c(
     # "a-first-id",
+    # "a-second-id",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
 )
 
 AIRNOW_FASM_EXCLUDE_BY_locationID <-
   c(
     # "a-first-id",
+    # "a-second-id",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
