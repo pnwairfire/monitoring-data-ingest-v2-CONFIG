@@ -11,6 +11,12 @@
 #  - by 'locationID' -- The first half of the deviceDeploymentID: "98b09fdaf1e5effb"
 #  - by 'deviceID' -- The second half of the deviceDeploymentID:  "840MMFS12264" 
 #
+# Excluding by locationID will remove all devices deployed at a specific location.
+#
+# Excluding by deviceID will remove all deployments for a specific device.
+#
+# Excluding by deviceDeploymentID will remove a specific deployment for a specific device.
+#
 # For readability, please put identifiers on individual lines.
 # Make sure to place a comma after every identifier EXCEPT THE LAST ONE.
 
