@@ -22,7 +22,7 @@ AIRNOW_FASM_EXCLUDE_BY_locationID <-
 
 AIRNOW_FASM_EXCLUDE_BY_deviceID <-
   c(
-    "840MMFS12264",
+    "840MMFS12264"
     # a seond ID,
     # ...
     # test edit
