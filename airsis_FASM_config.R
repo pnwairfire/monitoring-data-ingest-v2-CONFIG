@@ -38,5 +38,9 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
   c(
     # "a-first-id",
     # "a-second-id",
+    "pnwusfs.1077",
+    "pnwusfs.1078",
+    "pnwusfs.1079",
+    "pnwusfs.1091",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
