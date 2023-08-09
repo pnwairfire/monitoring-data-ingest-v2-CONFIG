@@ -38,6 +38,8 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
   c(
     # "a-first-id",
     # "a-second-id",
+    "pnwusfs.1070",
+    "pnwusfs.1071",
     "pnwusfs.1077",
     "pnwusfs.1078",
     "pnwusfs.1079",
