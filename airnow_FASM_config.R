@@ -37,7 +37,7 @@ AIRNOW_FASM_EXCLUDE_BY_locationID <-
 AIRNOW_FASM_EXCLUDE_BY_deviceID <-
   c(
     "840MMFS12264",
-    # "a-second-id",
+    "840MMFS10592",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
