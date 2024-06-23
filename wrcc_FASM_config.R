@@ -26,6 +26,9 @@ WRCC_FASM_EXCLUDE_BY_deviceDeploymentID <-
     "0d330fab658f7144_wrcc.sm68",
     "9tuver3007_wrcc.eat1",
     "8537af3a2db7bfe0_wrcc.sm11",
+    "9tuver300h_wrcc.eat1",
+    "9tuv7tude4_wrcc.eat3",
+    "9tuvy6uuu6_wrcc.eat2",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
