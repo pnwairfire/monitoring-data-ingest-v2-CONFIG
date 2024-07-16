@@ -42,6 +42,7 @@ WRCC_FASM_EXCLUDE_BY_deviceID <-
     "wrcc.eat1",
     "wrcc.eat2",
     "wrcc.eat3",
+    "wrcc.sm16",
     # "a-second-id",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
