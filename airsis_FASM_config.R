@@ -50,6 +50,7 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
     "apcd.1034",
     "apcd.1036",
     "apcd.1043",
+    "apcd.1049",
     "apcd.1060",
     "arb3.2032",
     "arb3.2036",
