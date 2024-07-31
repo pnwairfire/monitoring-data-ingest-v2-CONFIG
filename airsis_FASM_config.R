@@ -24,9 +24,6 @@ AIRSIS_FASM_EXCLUDE_BY_deviceDeploymentID <-
   c(
     # "a-first-id",
     # "a-second-id",
-    "9r34s9xkvs_arb2.1034",
-    "cad03848fefb10a1_arb2.1035",
-    " 2d9026ba4dc69787_apcd.1043",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
@@ -52,8 +49,16 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
     "apcd.1043",
     "apcd.1049",
     "apcd.1060",
+    "arb2.1012",
+    "arb2.1023",
+    "arb2.1028",
+    "arb2.1031",
+    "arb2.1034",
+    "arb2.1035",
+    "arb3.2019",
     "arb3.2032",
     "arb3.2036",
+    "arb3.2042",
     "usfs.1085",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
