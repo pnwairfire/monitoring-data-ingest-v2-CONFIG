@@ -42,6 +42,7 @@ WRCC_FASM_EXCLUDE_BY_deviceID <-
     "wrcc.eat2",
     "wrcc.eat3",
     "wrcc.sm16",
+    "wrcc.sm20",
     "wrcc.sm23",
     "wrcc.s386",
     "wrcc.s661",
