@@ -24,6 +24,7 @@ AIRSIS_FASM_EXCLUDE_BY_deviceDeploymentID <-
   c(
     # "a-first-id",
     # "a-second-id",
+    "5eb6d4a832fe4b99_usfs.1073",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
