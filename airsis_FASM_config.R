@@ -25,7 +25,6 @@ AIRSIS_FASM_EXCLUDE_BY_deviceDeploymentID <-
     # "a-first-id",
     # "a-second-id",
     "5eb6d4a832fe4b99_usfs.1073",
-    "5dbabe2bfe557b60_arb3.2059",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
@@ -61,6 +60,7 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
     "arb3.2032",
     "arb3.2036",
     "arb3.2042",
+    "arb3.2059",
     "usfs.1085",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
