@@ -27,6 +27,7 @@ WRCC_FASM_EXCLUDE_BY_deviceDeploymentID <-
     "8537af3a2db7bfe0_wrcc.sm11",
     "70b93c6bfccbc554_wrcc.sm15",
     "001cefd712f00669_wrcc.s216",
+    "b4aee7355b4c5a57_wrcc.sm11",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
 
