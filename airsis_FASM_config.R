@@ -49,6 +49,7 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
     "apcd.1034",
     "apcd.1036",
     "apcd.1043",
+    "apcd.1046",
     "apcd.1049",
     "apcd.1060",
     "arb2.1012",
@@ -62,6 +63,7 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
     "arb3.2036",
     "arb3.2042",
     "arb3.2059",
+    "arb3.2064",
     "usfs.1085",
     "DONT_FIND_ME" # KEEP THIS to ensure we end with no comma
   )
