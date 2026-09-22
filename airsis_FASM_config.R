@@ -58,6 +58,7 @@ AIRSIS_FASM_EXCLUDE_BY_deviceID <-
     "arb2.1031",
     "arb2.1034",
     "arb2.1035",
+    "arb3.2014",
     "arb3.2019",
     "arb3.2032",
     "arb3.2036",
